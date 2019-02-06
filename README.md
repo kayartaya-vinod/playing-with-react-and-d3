@@ -1,3 +1,17 @@
+<table>
+<tr>
+    <td>
+        <a href="http://bit.ly/2D9pxjW" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/angular7.jpeg">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.udemy.com/mongodb-fundamentals/?couponCode=FIRST500" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/mongodb.jpeg">
+        </a>
+    </td>
+</tr>
+</table>
 # Playing With React and D3
 
 At this point, we can now safely say [React](https://facebook.github.io/react/) is the preferred JavaScript library for building user interfaces. It is used practically everywhere, rivaling the level of ubiquity of [jQuery](https://jquery.com/). It has an API that is simple, powerful, and easy to learn. Its performance characteristics are really impressive thanks to the Virtual DOM and its clever [diff algorithm](https://facebook.github.io/react/docs/reconciliation.html) between state changes. However, nothing is the promised land and React is no different. While one of React's strengths is the easy of integrating third-party libaries, certain libraries are more difficult to integrate than others, especially opinionated libraries.
